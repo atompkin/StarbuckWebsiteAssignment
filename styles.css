@@ -1,0 +1,109 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #333;
+	line-height: 140%;
+	color:#666;
+	font-family: helvetica, verdana, sans-serif;
+ 	font-size:14px;
+ 	}
+ 	
+header{ 
+	font-family: 'Oswald',sans-serif;
+	text-align:center;
+ 	}
+ nav{
+ 	text-align:center;
+ 	font-family: 'Oswald',sans-serif;
+ 	font-size:20px;
+ 	text-decoration: none;	
+ }
+a:link, a:visited, a:active {color:#B31A39; text-decoration: none;}
+a:hover {color:#178154; text-decoration: underline;}
+
+hr{
+background:#BFBFBF;
+height:2px;
+width:100%;
+border:none;
+}
+
+figure{
+	text-align:center;
+	margin:0px;
+	background:#333;
+}
+
+h1{
+background: #178154;
+color: #FFF;
+height:160%;
+text-transform:uppercase;
+font-size:25px;
+padding:5px;
+}
+
+span
+{
+color:#178154;
+font-weight:bold;
+}
+
+footer{
+color:#000;
+background:#eee;
+height:50px;
+text-align:center;
+padding:20px;
+}
+.green{ color:#108054}
+
+h2{
+color:#178154;
+}
+
+ul{
+list-style-image: url(images/star.png);
+}
+h3{
+color:#478C3B;
+text-transform: uppercase;
+border-bottom: 3px dotted;
+border-color:#468C3B;
+}
+
+.price
+{
+color:#CC8303;
+font-family: 'Oswald',sans-serif;
+font-size: 20px;
+}
+
+.container{
+background-color: #FFF;
+width: 1024px;
+height: auto;
+list-style-type: center;
+float: none;
+margin:0 auto;
+overflow:hidden;
+}
+.store{
+float:right;
+margin-left:40px;
+margin-bottom: 80px;
+}
+.coffee{
+height:350px;
+}
+.coffee img{
+float:left;
+margin-right:30px;
+}
+.coffee h3{
+float:left;
+width:360px;
+}
+section{
+margin: 20px;
+}
